@@ -1,7 +1,7 @@
 # System_Programming
-## + system calls using low level C programming language
+## system calls using low level C programming language
 
-## + Assingment1
+## Assingment1
 
 | CODE | LINK |
 | ---- | ---- |
@@ -11,7 +11,7 @@
 | `Q:Read data and display using System calls.` | [link](https://github.com/chandrakant100/System_Programming/blob/master/assingment1/rws.c) |
 | `Q:Read data from input device and store it in a file.` | [link](https://github.com/chandrakant100/System_Programming/blob/master/assingment1/wdisk.c) |
 
-## + Assingment2
+## Assingment2
 
 | CODE | LINK |
 | ---- | ---- |
